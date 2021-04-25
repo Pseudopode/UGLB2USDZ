@@ -15,7 +15,8 @@ The relative shortcut has been created with [Relative](http://www.csparks.com/Re
 ## Requirements
 ### usdz_convert
 The minimal release of **usdz_convert** for windows must be downloaded, unzipped, and placed next to the .exe build of the app.
-![usdz_convert](./Documentation/screenshot.jpg "")
+
+![usdz_convert](./Documentation/usdz_converter.jpg "")
 
 ### meshoptimizer/gltfpack
 gltfpack is used to compress/pack the GLB before converting to usdz [Mesh-optimizer](https://github.com/zeux/meshoptimizer)
