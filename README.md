@@ -3,6 +3,9 @@
 # UGLB2USDZ
 Unity GUI frontend for usdzconvert_windows. Support drag and drop.
 
+## Releases
+The latest release is there : [UGLB2USDZ_V1.0.7z](https://github.com/Pseudopode/UGLB2USDZ/releases/download/V1.0/UGLB2USDZ_V1.0.7z)
+
 ## How to start
 There is a relative shortcut to the exe of the app. When doubled clicked, the .exe is started.
 
